@@ -8,12 +8,12 @@ import About from "./components/About"
 function App() {
   return (
     <>
-    <Navbar />
-    <Hero />
-    <About />
-    <Services />
-    <Tours />
-    <Footer />
+      <Navbar />
+      <Hero />
+      <About />
+      <Services />
+      <Tours />
+      <Footer />
     </>
   );
 }
